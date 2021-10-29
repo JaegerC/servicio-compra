@@ -1,0 +1,9 @@
+{
+  "realm": "produccion",
+  "auth-server-url": "http://localhost:8080/auth",
+  "resource": "login_app",
+  "ssl-required": "external",
+  "credentials": {
+    "secret": "006b36a5-e75e-40d6-8672-4d4686b98252"
+  }
+}
